@@ -1,4 +1,4 @@
-# MySKCT
+# Polyverse
 
 ## Technology Stack & Tools
 
