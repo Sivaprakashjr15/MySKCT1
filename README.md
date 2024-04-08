@@ -18,12 +18,12 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd MySKCT
+$ cd Polyverse
 $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd MySKCT
+$ cd Polyverse
 $ npx hardhat node
 ```
 
